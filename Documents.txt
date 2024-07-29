@@ -1,0 +1,102 @@
+For Clone:
+	git clone (repo url)
+	git commit -m "random text"
+	git push
+
+
+
+
+
+Xampp
+Download Composer
+Installation of Laravel
+
+
+---------------------
+In Laravel Migration ->
+- Users
+---------------------
+Authentication -> Login System
+---------------------
+Auth -> Current user
+---------------------
+Composer Update
+---------------------
+For Create Authentication:
+	- composer require Laravel/ui
+	- php artisan ui vue --auth
+	- php artisan migrate
+	- npm install
+
+
+
+How to make Migration in Laravel?
+commands:
+	php artisan make:migration (file name here)
+Send in Database command:
+	php artisan migrate
+check status command:
+	php artisan migrate:status
+rollback command:
+	php artisan migrate:rollback
+reset command:
+	php artisan reset
+delete all table data row command:
+	php artisan migrate:refresh
+
+
+
+Laravel (Complete) : Route system
+	  view
+	  layout
+	  migration
+	  link (assets)
+	  .env
+
+------------------------
+CRUD: Read Data
+controller :
+	command of controller:
+		php artisan make:controller (file name)
+	if use (--resource) all CRUD function by default ban jata hy
+	php artisan make:controller (file name) --resource
+
+------------------------
+Laravel:  QueryBuilder => sql cmnds -> returne view -> -> dynamic data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
